@@ -1,11 +1,11 @@
 # 👋 **Hi, I’m @Sivakumar Rajendran, you can call me _Siva_**
-- Little curious technical guy with some experience.  Stepping out and keen to explore. 
+- Little curious technical guy with some experience.  Stepping out of comfort zone and keen to explore. 
 - 👀 I’m interested in ... _Quite a few_
 - 🌱 I’m currently learning ... _Quite a few_
 - 💞️ I’m looking to collaborate on ... _Quite a few_
 - 📫 How to reach me - You will find _me_
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: You would have guessed by now :smiley:
 
 <!---
 sivakumar-raj/sivakumar-raj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
